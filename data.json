@@ -1,4 +1,5 @@
-{"name": "May Hayden (d) \\n & Patrick Hayden(d)(m)",
+{"name": "May Hayden (d)&
+Patrick Hayden(d)(m)",
 "children": [{
     "name": "Robert Hayden (d) & Ruth Duval (d)(m)",
     "children": [{
@@ -14,14 +15,19 @@
 {
 "name": "Imelda Burke - John Burke (d)",
 "children": [{
-    "name": "Eoin Burke & Úna Burke(m)"
+    "name": "Eoin Burke & Úna Burke",
+    "children": [{
+        "name": "Anna"
+    },{
+        "name": "Rosemary"
+    }]
 },
 {
 "name": "Aideen Burke - Brian Fitzgerald",
 "children": [{
-    "name": "Anna"
+    "name": "Evan"
 },{
-    "name": "Rosemary"
+    "name": "Sarah-Mai"
 }]
 }]
 },
