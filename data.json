@@ -46,9 +46,9 @@
     }]
 },
 { 
- "name":"highlighting <b>Shane</b> in bold"
+ "name":"<strong>Shane</strong>"
 },
-,{
+{
     "name": "Chantal O'Connell & Jim O'Connell",
     "children": [{
         "name": "Cora"
