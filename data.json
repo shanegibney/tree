@@ -46,7 +46,7 @@
     }]
 },
 {
-    "name" : [{"Mat_id" : "2", "Mat_Name" : "Jully","Measurement" : "<b>Inches</b>", "Description" : "Gully"},]
+    "name" : "<b>Inches</b>"
 },
 {
     "name": "Chantal O'Connell & Jim O'Connell",
