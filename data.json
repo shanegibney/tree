@@ -46,7 +46,7 @@
     }]
 },
 {
-    "name" : "<bold>shane</bold>"
+    "name" : "Shane Gibney"
 },
 {
     "name": "Chantal O'Connell & Jim O'Connell",
@@ -62,14 +62,14 @@
 {
     "name": "Noeleen Fitzpatrick & Tony Fitzpatrick",
     "children": [{
-        "name": "Sinead & Kieran MacNamara",
+        "name": "Sinead MacNamara & Kieran MacNamara",
         "children": [{
             "name": "AbbieMay"
         },{
             "name": "Daniel"
         }]
     },{
-        "name": "Fiona & Johnny Haye",
+        "name": "Fiona Haye & Johnny Haye",
         "children": [{
             "name": "Craig"
         },{
